@@ -1,6 +1,6 @@
 {
     "name": "rip-peroni/code",
-    "type": "lib",
+    "type": "library",
     "description": "php hexlet project #1",
     "homepage": "https://github.com/RIP-Peroni/php-project-lvl1",
     "license": "MIT",
