@@ -8,6 +8,7 @@
 В проекте представлена серия консольных игр под названием Brain-Games.
 ## Install
 Для установки зависимостей используйте `make install`
+[![asciicast_brain-even](https://asciinema.org/a/9Yuqkm6Zp1urjQJDiJG6awNHj.png)](https://asciinema.org/a/9Yuqkm6Zp1urjQJDiJG6awNHj)
 ## brain-even
  Игроку показывается случайное число. Нужно ответить **yes**, если число чётное, **no** — если нечётное.
-[![asciicast_brain-even](https://asciinema.org/a/9Yuqkm6Zp1urjQJDiJG6awNHj.png)](https://asciinema.org/a/9Yuqkm6Zp1urjQJDiJG6awNHj)
+[![asciicast_brain-even](https://asciinema.org/a/oZFNHaIVdViAkZeMkCMm4xwlD.png)](https://asciinema.org/a/oZFNHaIVdViAkZeMkCMm4xwlD)
