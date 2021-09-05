@@ -2,6 +2,7 @@
     "name": "rip-peroni/code",
     "type": "training project",
     "description": "php hexlet project #1",
+    "homepage": "https://github.com/RIP-Peroni/php-project-lvl1",
     "license": "MIT",
     "bin": [
         "bin/brain-games"
@@ -9,10 +10,11 @@
     "authors": [
         {
             "name": "Yuriy",
-            "email": "epih96@mail.ru"
+            "email": "epih96@mail.ru",
+            "role": "developer"
         }
     ],
     "require": {
-        "php": ">= 7.4"
+        "php": ">=7.4.0"
     }
 }
