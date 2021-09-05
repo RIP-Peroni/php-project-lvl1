@@ -30,3 +30,5 @@ jobs:
       - name: Run linter
         # Run Linter
         run: make lint
+        # Publish code coverage on Code Climate
+        # https://github.com/paambaati/codeclimate-action
