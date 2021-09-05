@@ -3,7 +3,6 @@ name: PHP CI
 
 # Trigger the workflow on push or pull request
 on:
-  - commit
   - push
   - pull_request
 
