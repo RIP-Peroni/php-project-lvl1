@@ -10,14 +10,16 @@
             "src/GameEngine.php",
             "src/games/Even.php",
             "src/games/Calc.php",
-            "src/games/Gcd.php"
+            "src/games/Gcd.php",
+            "src/games/Progression.php"
         ]
     },
     "bin": [
         "bin/brain-games",
         "bin/brain-even",
         "bin/brain-calc",
-        "bin/brain-gcd"
+        "bin/brain-gcd",
+        "bin/brain-progression"
     ],
     "authors": [
         {
