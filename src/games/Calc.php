@@ -26,7 +26,7 @@ function startGame(): void
                 $correctAnswer = $num1 * $num2;
                 break;
             default:
-                throw new Exception('Invalid operator!');
+                throw new \Exception('Invalid operator!');
         }
         $correctAnswer = (string) $correctAnswer;
         return [$question, $correctAnswer];
