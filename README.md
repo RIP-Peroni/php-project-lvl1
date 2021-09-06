@@ -21,3 +21,6 @@
 ## brain-progression
 Игроку показывается ряд чисел, образующий арифметическую прогрессию. Случайное число из этого ряда **пропущено**. Нужно определить и ввести это число.
 [![asciicast_brain-progression](https://asciinema.org/a/gKWHZozOLADBRURqYUX6Gnp4M.png)](https://asciinema.org/a/gKWHZozOLADBRURqYUX6Gnp4M)
+## brain-prime
+Игроку показывается случайное число. Нужно ответить **yes**, если число является простым, **no** - если оно составное.
+[![asciicast_brain-prime](https://asciinema.org/a/lzz9KdppZ6tLKjZ6unL5T3qj9.png)](https://asciinema.org/a/lzz9KdppZ6tLKjZ6unL5T3qj9)
