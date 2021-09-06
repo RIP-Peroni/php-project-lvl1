@@ -4,7 +4,7 @@ namespace Brain\Games\Progression;
 
 use function Brain\Games\Engine\launchEngine;
 
-function getProgressionWithConcealedElement($start, $diff, $elementsCount, $concealedIndex)
+function getProgressionWithConcealedElement(int $start, int $diff, int $elementsCount, int $concealedIndex): string
 {
     $progression = '';
     for ($i = 0; $i < $elementsCount; $i += 1) {
