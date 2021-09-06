@@ -21,7 +21,7 @@ function calculateGcd(int $a, int $b): int
 function startGame(): void
 {
     $description = "Find the greatest common divisor of given numbers.";
-    $getQuestionAndAnswer = function(): array {
+    $getQuestionAndAnswer = function (): array {
         $num1 = random_int(1, 100);
         $num2 = random_int(1, 100);
         $question = "{$num1} {$num2}";
