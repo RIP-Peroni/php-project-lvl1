@@ -12,3 +12,6 @@
 ## brain-even
  Игроку показывается случайное число. Нужно ответить **yes**, если число чётное, **no** — если нечётное.
 [![asciicast_brain-even](https://asciinema.org/a/oZFNHaIVdViAkZeMkCMm4xwlD.png)](https://asciinema.org/a/oZFNHaIVdViAkZeMkCMm4xwlD)
+## brain-calc
+Игроку показывается **случайное математическое выражение**. Нужно его вычислить и дать правильный ответ.
+[![asciicast_brain-calc](https://asciinema.org/a/rUOjGrDsiWVZoqtflWtrLpmLR.png)](https://asciinema.org/a/rUOjGrDsiWVZoqtflWtrLpmLR)
