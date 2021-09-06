@@ -15,3 +15,6 @@
 ## brain-calc
 Игроку показывается **случайное математическое выражение**. Нужно его вычислить и дать правильный ответ.
 [![asciicast_brain-calc](https://asciinema.org/a/rUOjGrDsiWVZoqtflWtrLpmLR.png)](https://asciinema.org/a/rUOjGrDsiWVZoqtflWtrLpmLR)
+## brain-gcd
+Игроку показывается два случайных числа. Нужно вычислить и ввести **наибольший общий делитель** этих чисел.
+[![asciicast_brain-gcd](https://asciinema.org/a/4J2ooVCOQ6fxRbjxpS9zCTjqH.png)](https://asciinema.org/a/4J2ooVCOQ6fxRbjxpS9zCTjqH)
