@@ -4,7 +4,7 @@ namespace Brain\Games\Even;
 
 use function Brain\Games\Engine\launchEngine;
 
-function isEven(int $number)
+function isEven(int $number): bool
 {
     return $number % 2 === 0;
 }
