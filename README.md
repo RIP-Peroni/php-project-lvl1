@@ -18,3 +18,6 @@
 ## brain-gcd
 Игроку показывается два случайных числа. Нужно вычислить и ввести **наибольший общий делитель** этих чисел.
 [![asciicast_brain-gcd](https://asciinema.org/a/4J2ooVCOQ6fxRbjxpS9zCTjqH.png)](https://asciinema.org/a/4J2ooVCOQ6fxRbjxpS9zCTjqH)
+## brain-progression
+Игроку показывается ряд чисел, образующий арифметическую прогрессию. Случайное число из этого ряда **пропущено**. Нужно определить и ввести это число.
+[![asciicast_brain-progression](https://asciinema.org/a/gKWHZozOLADBRURqYUX6Gnp4M.png)](https://asciinema.org/a/gKWHZozOLADBRURqYUX6Gnp4M)
